@@ -27,7 +27,6 @@ Elements that were used in the process of generating the necessary data:
 >LI, BE, NA, MG, AL, K, CA, SC, TI, V, CR, MN, FE, CO, NI, CU, ZN, GA, Y, ZR, NB, MO, TC, RH, PD, AG, CD, IN, SN, BA, LA, CE, PR, ND, PM, SM, EU, GD, TB, DY, HO, ER, HF, TA, W, RE, OS, IR, PT, AU, HG, TL, PB, BI, C, SI
 
 ## Project structure
----
 
 * data samples - examples of generated data on the basis of which the vector for model training is built 
 * errors - for which combinations it was not possible to use the data for training
@@ -35,7 +34,6 @@ Elements that were used in the process of generating the necessary data:
 * src - code written for this work
 
 ## Requirements
----
 
 * python 3.10.6
 * pandas 1.5.3
@@ -47,7 +45,6 @@ Elements that were used in the process of generating the necessary data:
 * seaborn 0.12.2
 
 ## Quick start (pip install commands)
----
 
 ```bash 
 pip install matplotlib==3.7.0 
@@ -60,7 +57,7 @@ pip install seaborn==0.12.2
 ```
 
 ## Results
----
+
 The results for some cases are shown below. The rest of the results of the work will be added later.
 
 ### Binary systems (example)
